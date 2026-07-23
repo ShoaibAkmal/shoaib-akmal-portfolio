@@ -3,8 +3,26 @@ layout: home
 title: Home
 ---
 
-# Hi, I'm Your Name
+# Hi, I'm Shoaib Akmal 👋
 
-Chemical Engineer interested in Data Analytics, Software Development, and Process Engineering.
+Chemical Engineer | Data Analytics | Python
 
-🚧 Website under construction.
+I'm a Chemical Engineering graduate with interests in data analytics, software development, and process optimization. I'm building projects that combine engineering with programming to solve real-world problems.
+
+---
+
+## Featured Projects
+
+🚧 Coming Soon
+
+---
+
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Git
+- MATLAB
+- Aspen Plus
