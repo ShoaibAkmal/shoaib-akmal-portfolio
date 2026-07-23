@@ -1,3 +1,10 @@
-title: Your Name
-description: Chemical Engineer | Data Analytics | Software
+title: Shoaib Akmal
+description: Chemical Engineer | Data Analytics | Software Development
+
 theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
